@@ -17,7 +17,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # DLL
-add_library(${PROJECT_NAME} SHARED main.cpp)
+add_library(${PROJECT_NAME} SHARED src/main.cpp)
 
 # 3rdparty
 set(MINHOOK_DIR ${CMAKE_SOURCE_DIR}/3rdparties/minhook)
