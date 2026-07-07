@@ -1,0 +1,1 @@
+You can copy what is in this directory next to uncharted executable, or set RUNTIME_DIR to game directory and rebuild. 
