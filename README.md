@@ -5,10 +5,7 @@
     <a href="#what-is-it">What is it?</a> -
     <a href="#installation-prebuilt">Installation</a> -
     <a href="#building">Building</a> -
-    <a href="#license">License</a>
 </p>
-
-[![License](https://img.shields.io/github/license/marcusnessemadland/u4-devmenu)](https://github.com/marcusnessemadland/u4-devmenu/blob/main/LICENSE)
 
 [What is it?](https://github.com/marcusnessemadland/u4-devmenu)
 -------------------------------------------------------------
@@ -42,7 +39,8 @@ If you'd like the build to output directly into your Uncharted 4 install directo
 cmake .. -DRUNTIME_DIR="C:/Path/To/Uncharted4/Directory"
 ```
 
-[License](https://github.com/marcusnessemadland/u4-devmenu/blob/main/LICENSE)
------------------------------------------------------------------------
+[Thank you](https://github.com/marcusnessemadland/u4-devmenu)
+-------------------------------------------------------------
 
-See the [LICENSE](https://github.com/marcusnessemadland/u4-devmenu/blob/main/LICENSE) file in the repository for details.
+- [Cane556](https://github.com/gg3502)
+- [TheMagicalBlob](https://github.com/TheMagicalBlob)
