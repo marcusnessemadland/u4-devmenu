@@ -4,7 +4,7 @@
 <p align="center">
     <a href="#what-is-it">What is it?</a> -
     <a href="#installation-prebuilt">Installation</a> -
-    <a href="#building">Building</a> -
+    <a href="#building">Building</a> 
 </p>
 
 [What is it?](https://github.com/marcusnessemadland/u4-devmenu)
